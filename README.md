@@ -57,7 +57,7 @@ Chatmate is released under the [ISC License](LICENSE).
 This project was inspired by the need for a real-time chat application and utilizes the power of Node.js, Socket.IO, and Express to provide an interactive chat experience.
 
 
-###Screenshots of the web app
+##Screenshots of the web app
 
 
 Joining Page
