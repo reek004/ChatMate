@@ -92,8 +92,34 @@ a {
 	background: #fff;
 	margin: 180px auto;
 	overflow: hidden;
-    border-radius: 10px;
+	border-radius: 10px;
 }
+
+@media (max-width: 1200px) {
+	.chat-container {
+		margin: 220px auto;
+	}
+}
+
+@media (max-width: 992px) {
+	.chat-container {
+		margin: 180px auto;
+	}
+}
+
+@media (max-width: 768px) {
+	.chat-container {
+		margin: 160px auto;
+	}
+}
+
+@media (max-width: 576px) {
+	.chat-container {
+		margin: 180px auto;
+	}
+}
+
+
 
 .chat-header {
 	background: var(--dark-color-a);
