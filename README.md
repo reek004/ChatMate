@@ -1,6 +1,6 @@
 # ChatMate
 
-Chatmate is a real-time chat application built with Node.js, Socket.IO, and Express. It enables users to engage in instant messaging and communicate with each other in a seamless manner. Chatmate also includes voice typing functionality, allowing users to send messages by voice input.
+Chatmate is a real-time chat application built with Node.js, Socket.IO. It enables users to engage in instant messaging and communicate with each other in a seamless manner. Chatmate also includes voice typing functionality, allowing users to send messages by voice input.
 
 ## Features
 
