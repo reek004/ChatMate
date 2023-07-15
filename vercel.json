@@ -1,9 +1,14 @@
 {
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/server.js"
-      }
-    ]
+  "routes": [
+    {
+      "src": "/server.js",
+      "dest": "/server.js"
+    }
+  ],
+  "static": {
+    "directory": "./server",
+    "public": "/"
   }
+}
+
   
