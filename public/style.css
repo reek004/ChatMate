@@ -19,7 +19,7 @@ body {
 	font-size: 16px;
 	background: var(--light-color);
 	margin: 20px;
-    max-height:105vh ;
+    min-height:105vh ;
     
 }
 
